@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "basic npm understanding",
   "main": "index.js",
-  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-script-start start",
@@ -15,7 +14,7 @@
   "author": "ns-stark-batch",
   "license": "ISC",
   "dependencies": {
-    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
     "redux": "^4.2.1"
   }
 }
